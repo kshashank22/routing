@@ -1,0 +1,13 @@
+*{
+    margin:0px;
+}
+
+.mainContainer{
+  height:100vh;
+  background-size:cover;
+}
+.components{
+    display:flex;
+    justify-content:center;
+   
+}
